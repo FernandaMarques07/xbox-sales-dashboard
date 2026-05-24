@@ -9,6 +9,8 @@ Challenge: **Criando um Dashboard de Vendas do Xbox com Excel (Creating an Xbox 
 
 ## Dashboard Preview
 
+![dashboard](dashboard.png)
+
 The dashboard includes:
 
 - Total revenue KPI
